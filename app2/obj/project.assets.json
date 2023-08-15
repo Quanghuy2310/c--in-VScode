@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\app\\app.csproj",
-      "projectName": "app",
-      "projectPath": "c:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\app\\app.csproj",
+      "projectUniqueName": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\app2\\app2.csproj",
+      "projectName": "app2",
+      "projectPath": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\app2\\app2.csproj",
       "packagesPath": "C:\\Users\\Dell 7490\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\app\\obj\\",
+      "outputPath": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\app2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell 7490\\AppData\\Roaming\\NuGet\\NuGet.Config",
