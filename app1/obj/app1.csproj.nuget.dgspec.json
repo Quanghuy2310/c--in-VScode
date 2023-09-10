@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\app1\\app1.csproj": {}
+    "c:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\app1\\app1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\app1\\app1.csproj": {
+    "c:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\app1\\app1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\app1\\app1.csproj",
+        "projectUniqueName": "c:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\app1\\app1.csproj",
         "projectName": "app1",
-        "projectPath": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\app1\\app1.csproj",
+        "projectPath": "c:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\app1\\app1.csproj",
         "packagesPath": "C:\\Users\\Dell 7490\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\app1\\obj\\",
+        "outputPath": "c:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\app1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell 7490\\AppData\\Roaming\\NuGet\\NuGet.Config",

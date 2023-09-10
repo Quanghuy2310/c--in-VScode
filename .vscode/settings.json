@@ -1,3 +1,7 @@
 {
-    "dotnet.defaultSolution": "c# in VScode.sln"
+    "dotnet.defaultSolution": "c# in VScode.sln",
+    "files.associations": {
+        "*.cs": "cpp"
+    },
+    "cmake.configureOnOpen": true
 }
