@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\ASP.NET CORE\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\ASP.NET CORE\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\ASP.NET CORE\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\ASP.NET CORE\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ASP.NET CORE.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ASP.NET CORE.props",
+      "PackagePath": "build\\ASP.NET CORE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ASP.NET CORE.props",
+      "PackagePath": "buildMultiTargeting\\ASP.NET CORE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ASP.NET CORE.props",
+      "PackagePath": "buildTransitive\\ASP.NET CORE.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

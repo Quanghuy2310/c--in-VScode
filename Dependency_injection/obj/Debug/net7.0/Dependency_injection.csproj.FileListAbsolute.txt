@@ -16,3 +16,14 @@ c:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\Dependency
 C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\Dependency_injection\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\Dependency_injection\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\Dependency_injection\obj\Debug\net7.0\Dependency_injection.csproj.CopyComplete
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\Dependency_injection\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\Dependency_injection\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\Dependency_injection\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\Dependency_injection\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\Dependency_injection\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\Dependency_injection\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\Dependency_injection\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\Dependency_injection\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\Dependency_injection\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\Dependency_injection\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\Dependency_injection\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll

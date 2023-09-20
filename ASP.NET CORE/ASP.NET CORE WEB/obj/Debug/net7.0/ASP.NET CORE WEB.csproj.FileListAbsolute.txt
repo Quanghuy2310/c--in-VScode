@@ -1,0 +1,31 @@
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\bin\Debug\net7.0\appsettings.json
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\bin\Debug\net7.0\ASP.NET CORE WEB.staticwebassets.runtime.json
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\bin\Debug\net7.0\ASP.NET CORE WEB.exe
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\bin\Debug\net7.0\ASP.NET CORE WEB.deps.json
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\bin\Debug\net7.0\ASP.NET CORE WEB.runtimeconfig.json
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\bin\Debug\net7.0\ASP.NET CORE WEB.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\bin\Debug\net7.0\ASP.NET CORE WEB.pdb
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\ASP.NET CORE WEB.csproj.AssemblyReference.cache
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\ASP.NET CORE WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\ASP.NET CORE WEB.AssemblyInfoInputs.cache
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\ASP.NET CORE WEB.AssemblyInfo.cs
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\ASP.NET CORE WEB.csproj.CoreCompileInputs.cache
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\ASP.NET CORE WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\ASP.NET CORE WEB.RazorAssemblyInfo.cache
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\ASP.NET CORE WEB.RazorAssemblyInfo.cs
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\staticwebassets\msbuild.ASP.NET CORE WEB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\staticwebassets\msbuild.build.ASP.NET CORE WEB.props
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET CORE WEB.props
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ASP.NET CORE WEB.props
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\scopedcss\bundle\ASP.NET CORE WEB.styles.css
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\scopedcss\projectbundle\ASP.NET CORE WEB.bundle.scp.css
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\ASP.NET CORE WEB.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\refint\ASP.NET CORE WEB.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\ASP.NET CORE WEB.pdb
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\ASP.NET CORE WEB.genruntimeconfig.cache
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEB\obj\Debug\net7.0\ref\ASP.NET CORE WEB.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "vE3OA5VjsGGXpnV0M5JeKm+9eIHRmg3Irx61bXJ2CfM=",
+  "Source": "ASP.NET CORE",
+  "BasePath": "_content/ASP.NET CORE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASP.NET CORE\\wwwroot",
+      "Source": "ASP.NET CORE",
+      "ContentRoot": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\ASP.NET CORE\\wwwroot\\",
+      "BasePath": "_content/ASP.NET CORE",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\ASP.NET CORE\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "ASP.NET CORE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\ASP.NET CORE\\wwwroot\\",
+      "BasePath": "_content/ASP.NET CORE",
+      "RelativePath": "css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\ASP.NET CORE\\wwwroot\\js\\bootstrap.min.js",
+      "SourceId": "ASP.NET CORE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\ASP.NET CORE\\wwwroot\\",
+      "BasePath": "_content/ASP.NET CORE",
+      "RelativePath": "js/bootstrap.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\ASP.NET CORE\\wwwroot\\js\\jquery.min.js",
+      "SourceId": "ASP.NET CORE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\ASP.NET CORE\\wwwroot\\",
+      "BasePath": "_content/ASP.NET CORE",
+      "RelativePath": "js/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\ASP.NET CORE\\wwwroot\\js\\popper.min.js",
+      "SourceId": "ASP.NET CORE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\ASP.NET CORE\\wwwroot\\",
+      "BasePath": "_content/ASP.NET CORE",
+      "RelativePath": "js/popper.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\popper.min.js"
+    }
+  ]
+}

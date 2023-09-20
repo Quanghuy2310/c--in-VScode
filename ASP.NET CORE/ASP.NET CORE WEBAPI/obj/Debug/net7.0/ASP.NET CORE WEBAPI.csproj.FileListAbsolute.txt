@@ -1,0 +1,33 @@
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\bin\Debug\net7.0\ASP.NET CORE WEBAPI.exe
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\bin\Debug\net7.0\ASP.NET CORE WEBAPI.deps.json
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\bin\Debug\net7.0\ASP.NET CORE WEBAPI.runtimeconfig.json
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\bin\Debug\net7.0\ASP.NET CORE WEBAPI.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\bin\Debug\net7.0\ASP.NET CORE WEBAPI.pdb
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\ASP.NET CORE WEBAPI.csproj.AssemblyReference.cache
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\ASP.NET CORE WEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\ASP.NET CORE WEBAPI.AssemblyInfoInputs.cache
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\ASP.NET CORE WEBAPI.AssemblyInfo.cs
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\ASP.NET CORE WEBAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\ASP.NET CORE WEBAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\ASP.NET CORE WEBAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.ASP.NET CORE WEBAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.ASP.NET CORE WEBAPI.props
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET CORE WEBAPI.props
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ASP.NET CORE WEBAPI.props
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\scopedcss\bundle\ASP.NET CORE WEBAPI.styles.css
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\ASP.NET CORE WEBAPI.csproj.CopyComplete
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\ASP.NET CORE WEBAPI.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\refint\ASP.NET CORE WEBAPI.dll
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\ASP.NET CORE WEBAPI.pdb
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\ASP.NET CORE WEBAPI.genruntimeconfig.cache
+C:\Users\Dell 7490\source\repos\trainCsharp\trainCsharp2\c# in VScode\ASP.NET CORE\ASP.NET CORE WEBAPI\obj\Debug\net7.0\ref\ASP.NET CORE WEBAPI.dll

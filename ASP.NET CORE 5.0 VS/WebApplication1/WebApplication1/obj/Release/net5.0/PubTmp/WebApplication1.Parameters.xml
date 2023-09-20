@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="learningcore5.local" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Dell\ 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c\#\ in\ VScode\\ASP\.NET\ CORE\ 5\.0\ VS\\WebApplication1\\WebApplication1\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

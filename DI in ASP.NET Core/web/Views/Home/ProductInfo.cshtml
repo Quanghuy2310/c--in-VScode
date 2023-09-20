@@ -1,0 +1,14 @@
+@model Product
+<h1>Detail</h1>
+
+@if (Model == null){
+        <div class="alert alert-danger">Undefinded</div>
+}
+else{
+    <div class="card">
+        <div class="card-body">
+           <p> @Model.Name </p>
+           <p> @Model.Price</p>
+        </div>
+</div>
+}

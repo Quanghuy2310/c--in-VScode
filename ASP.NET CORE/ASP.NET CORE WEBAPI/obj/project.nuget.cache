@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "SOMPZc79wM66UxmWZHM3rX/giFOcXYn+rdJ+EmXTA5uuvrUCx0Y29PiCU5VrdZ8WyNZ0HH6FCnXVT6lbp4bV4g==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\ASP.NET CORE\\ASP.NET CORE WEBAPI\\ASP.NET CORE WEBAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell 7490\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\Dell 7490\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Dell 7490\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Dell 7490\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Dell 7490\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Dell 7490\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Dell 7490\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

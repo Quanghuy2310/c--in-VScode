@@ -1,0 +1,11 @@
+﻿@model ASP.NET_CORE_WEB.Models.StudentDetail;
+@{
+    ViewData["Title"] = "Home Page";
+}
+@if(Model != null){
+    @Model.Name
+}else{
+    <p></p>
+}
+
+

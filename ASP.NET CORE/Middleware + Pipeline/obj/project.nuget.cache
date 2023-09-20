@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LRvV7wur7uyWIxg9zwHo2jNXkHdMS10MHi3VZThvqb1WPAsqIqINihAyYirMyZsJiu11GEkkkqywD+HV9GJ6bA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Dell 7490\\source\\repos\\trainCsharp\\trainCsharp2\\c# in VScode\\ASP.NET CORE\\ASP.NET CORE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell 7490\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512"
+  ],
+  "logs": []
+}
